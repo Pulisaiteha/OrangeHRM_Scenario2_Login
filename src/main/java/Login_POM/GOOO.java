@@ -1,9 +1,10 @@
 package Login_POM;
 
-public class SAMPLE {
+public class GOOO {
 
 	public static void main(String[] args) {
-    System.out.print("Sample");
+		System.out.println("hello");
+
 	}
 
 }
