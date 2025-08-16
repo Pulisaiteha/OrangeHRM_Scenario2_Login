@@ -1,9 +1,9 @@
 package Login_POM;
 
-public class GOOO {
+public class LOKI {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		System.out.print("Hello");
 
 	}
 
