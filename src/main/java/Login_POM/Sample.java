@@ -1,9 +1,9 @@
 package Login_POM;
 
-public class Sample {
+public class SAMPLE {
 
 	public static void main(String[] args) {
-    System.out.println("sample file");
+    System.out.print("Sample");
 	}
 
 }
